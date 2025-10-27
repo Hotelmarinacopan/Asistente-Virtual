@@ -33,8 +33,9 @@ const chatHistory = [
       - Cuenta con habitaciones Estándar, Deluxe y Suites, con aire acondicionado, Wi-Fi, TV por cable y agua caliente.
       - Ofrece piscina, spa, gimnasio, restaurante con desayuno buffet y jardines coloniales.
       - Está cerca de las ruinas mayas de Copán.
-      - Contacto: info@hotelmarinacopan.com / +504 2651-4078
+      - Contacto: reserve@hotelmarinacopan.com / +504 2651-4078
       - Página web: www.hotelmarinacopan.com
+      - Tenemos 54 habitaciones divididas en Colonial Standard, Premium y Suites.
       `
     }]
   },
