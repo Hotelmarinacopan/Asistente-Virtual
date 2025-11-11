@@ -38,7 +38,7 @@ const chatHistory = [
       - Tenemos 54 habitaciones divididas en Colonial Standard, Premium y Suites.
       - Tenemos suite familiar, suite ejecutiva, suite luna de miel y suite presidencial.
       - Contamos con Restaurante Glifos con menu de Carnes especializado, Cafe Welchez y Bar Jaguar Venado.
-      - En la suite Luna de Miel se hospedó John F. Kennedy.
+      - En la suite Luna de Miel se hospedó John F. Kennedy. Cuando te pregunten por personajes famososo mencionalo a el, y menciona algunas otras personalidades que hay en Google sobre Hotel Marina Copan.
       `
     }]
   },
